@@ -1,4 +1,4 @@
-package Test;
+package ar.edu.unlam.verano.pb2.testDisco;
 
 import static org.junit.Assert.*;
 
